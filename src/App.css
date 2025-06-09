@@ -1,0 +1,18 @@
+.ubuntu-mono-bold {
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.jetbrains-mono {
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: initial;
+    font-style: initial;
+}
+
+.article > h2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}

@@ -6,8 +6,8 @@ interface NavigationProps {}
 
 const Navigation: FC<NavigationProps> = () => (
   <div>
-    <header className="bg-slate-900 text-white">
-      <div className="flex items-center justify-between px-6 py-4 mx-auto max-w-7xl">
+    <header className="text-white ubuntu-mono-bold">
+      <div className="flex items-center justify-between px-6 py-4 mx-auto max-w-4xl">
         <div className="flex items-center space-x-3 text-xl font-semibold">
           <img src="/sas.png" alt="SAS Logo" className="w-10 h-10" />
 
