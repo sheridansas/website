@@ -4,7 +4,7 @@ interface PageLandingProps {}
 
 const PageLanding: FC<PageLandingProps> = () => (
   <div className="jetbrains-mono text-slate-200">
-    <h2 className="ubuntu-mono text-3xl">Awaiting branding guidelines!</h2>
+    <h2 className="ubuntu-mono text-3xl">The website has changed!</h2>
     <p>This boilerplate until further programming can be completed.</p>
 
     <br />
