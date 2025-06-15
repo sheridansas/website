@@ -10,9 +10,11 @@
 
         <!-- Content -->
         <div id="content" class="min-md:ml-[24rem] p-5 text-blue-100 min-h-screen">
-            <h1 class="text-white text-3xl roboto-slab font-bold">
-                resources.php template
+            <h1 class="mb-5 text-white text-3xl roboto-slab font-bold">
+                Resources
             </h1>
+
+            <p>No resources available for display at this time.</p>
         </div>
     </body>
 </html>
