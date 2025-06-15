@@ -36,16 +36,16 @@
             <h1 class="roboto-slab text-white font-bold text-xl">Sheridan Server Administration Society</h1>
         </div>
     </div>
-    <a href="/" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-l hover:from-slate-900 hover:to-slate-800">
+    <a href="/" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
         <i class="fa fa-sharp fa-house w-9"></i> Home
     </a>
-    <a href="/lessons.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-l hover:from-slate-900 hover:to-slate-800">
+    <a href="/lessons.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
         <i class="fa fa-sharp fa-solid fa-graduation-cap w-9"></i> Lessons
     </a>
-    <a href="/events.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-l hover:from-slate-900 hover:to-slate-800">
+    <a href="/events.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
         <i class="fa fa-sharp fa-solid fa-calendar w-9"></i> Events
     </a>
-    <a href="/resources.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-l hover:from-slate-900 hover:to-slate-800">
+    <a href="/resources.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
         <i class="fa fa-sharp fa-solid fa-paperclip w-9"></i> Resources
     </a>
 </aside>
