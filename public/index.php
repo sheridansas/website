@@ -85,14 +85,14 @@
             </h1>
 
             <div class="bg-slate-800 p-3 mb-3 flex flex-col border-l-2 border-solid border-green-300">
-                <h2 class="text-xl font-semibold text-white mb-2">Minecraft</h2>
+                <h2 class="text-xl font-semibold text-white mb-2">Sasha</h2>
                 <span class="text-green-400 font-medium mb-2">Online</span>
                 <p class="text-blue-200 mb-2">IP: mc.sheridansas.club</p>
             </div>
 
             <div class="bg-slate-800 p-3 mb-3 flex flex-col border-l-2 border-solid border-red-400">
                 <h2 class="text-xl font-semibold text-white mb-2">File Transfer</h2>
-                <span class="text-green-400 font-medium mb-2">Online</span>
+                <span class="text-red-400 font-medium mb-2">Offline</span>
                 <p class="text-blue-200 mb-2">IP: mc.sheridansas.club</p>
             </div>
         </div>
