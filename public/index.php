@@ -50,7 +50,7 @@
                         <span class="bg-green-600 text-white px-2 py-1 text-sm rounded-full">Workshop</span>
                         <span class="bg-blue-600 text-white px-2 py-1 text-sm rounded-full">Linux</span>
                     </div>
-                    <p class="mb-3 text-blue-200">An introductory workshop to Linux system administration and command-line `essentials.</p>
+                    <p class="mb-3 text-blue-200">An introductory workshop to Linux system administration and command-line essentials.</p>
                     <div class="text-sm text-blue-300">Owen Parsons</div>
                     <div class="text-sm text-blue-300">Campus: Trafalgar Campus</div>
                 </div>
