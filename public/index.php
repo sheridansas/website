@@ -18,7 +18,7 @@
 
             <p>
                 The Sheridan Server Administration Society brings together students who are passionate about
-                Self-Hosting, OSS, Linux, and all things tech related.
+                self-hosting, OSS, Linux, and all things tech related.
             </p>
 
             <a href="https://discord.gg/DUGCAWTjuP">
