@@ -21,9 +21,21 @@
                 Self-Hosting, OSS, Linux, and all things tech related.
             </p>
 
-            <button class="bg-slate-800 border-l-2 border-purple-400 p-3 mt-3 font-bold hover:bg-slate-600 hover:cursor-pointer transition-all">
-                Join the Discord
+            <a href="https://discord.gg/DUGCAWTjuP">
+                <button class="bg-slate-800 border-l-2 border-red-400 p-3 mt-3 font-bold hover:bg-slate-600 hover:cursor-pointer transition-all">
+                    Join the Discord
+                </button>
+            </a>
+
+            <button class="bg-slate-800 border-l-2 border-green-400 p-3 mt-3 font-bold hover:bg-slate-600 hover:cursor-pointer transition-all">
+                Join the IRC
             </button>
+
+            <a href="https://sheridancollege.campuslabs.ca/engage/organization/sas">
+                <button class="bg-slate-800 border-l-2 border-blue-400 p-3 mt-3 font-bold hover:bg-slate-600 hover:cursor-pointer transition-all">
+                    Clubs Corner
+                </button>
+            </a>
 
             <!-- TODO: This is static content for now. Will be updated to dynamic once Postgres is setup. -->
             <h1 class="mt-10 text-white text-3xl roboto-slab font-bold">
@@ -38,7 +50,7 @@
                         <span class="bg-green-600 text-white px-2 py-1 text-sm rounded-full">Workshop</span>
                         <span class="bg-blue-600 text-white px-2 py-1 text-sm rounded-full">Linux</span>
                     </div>
-                    <p class="mb-3 text-blue-200">An introductory workshop to Linux system administration and command-line essentials.</p>
+                    <p class="mb-3 text-blue-200">An introductory workshop to Linux system administration and command-line `essentials.</p>
                     <div class="text-sm text-blue-300">Owen Parsons</div>
                     <div class="text-sm text-blue-300">Campus: Trafalgar Campus</div>
                 </div>
