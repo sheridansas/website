@@ -12,6 +12,12 @@
     font-variation-settings: "wdth" 100;
 }
 
+.ubuntu-mono-regular {
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
 /* Main content styling */
 #content {
     background-size: 40px 40px;
