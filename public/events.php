@@ -9,7 +9,7 @@
         <?php include "includes/navigation.php"; ?>
 
         <!-- Content -->
-        <div class="min-md:ml-[24rem] p-5 text-blue-100">
+        <div id="content" class="min-md:ml-[24rem] p-5 text-blue-100 min-h-screen">
             <!-- TODO: This is static content for now. Will be updated to dynamic once Postgres is setup. -->
             <h1 class="text-white text-3xl roboto-slab font-bold">
                 Upcoming Events
