@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <title>Sheridan Server Administration Society</title>
 
 <meta charset="UTF-8" />

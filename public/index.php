@@ -3,6 +3,7 @@
     <head>
         <!-- Header -->
         <?php include "includes/header.php"; ?>
+        <?php include "includes/database.php"; ?>
     </head>
     <body class="bg-slate-900">
         <!-- Navigation -->
