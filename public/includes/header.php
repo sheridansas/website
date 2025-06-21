@@ -16,5 +16,12 @@ session_start();
 <link rel="icon" type="image/png" href="/assets/logo.png">
 
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+<link rel="preload" href="/webfonts/pro-fa-solid-900-5.10.1.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/webfonts/pro-fa-solid-900-5.10.2.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/webfonts/pro-fa-solid-900-5.0.0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/webfonts/pro-fa-solid-900-5.10.1.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/webfonts/pro-fa-solid-900-5.10.2.woff" as="font" type="font/woff" crossorigin="anonymous">
+
 <link rel="stylesheet" href="/css/fontawesome.css">
 <link rel="stylesheet" href="/css/index.css">
