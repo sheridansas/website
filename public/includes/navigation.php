@@ -52,6 +52,16 @@
     <a href="/resources.php" class="text-white px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
         <i class="fa fa-sharp fa-solid fa-paperclip w-9"></i> Resources
     </a>
+
+    <?php
+    if (isset($_SESSION["is_admin"]) && $_SESSION["is_admin"] === true) {
+        echo <<<EOL
+        <a href="/admin" class="text-red-300 px-6 py-3 mb-0 text-xl roboto-slab hover:bg-gradient-to-r hover:from-slate-900 hover:to-slate-800">
+            <i class="fa fa-sharp fa-solid fa-lock w-9"></i> Admin
+        </a>
+        EOL;
+    }
+    ?>
 </aside>
 
 <script>
