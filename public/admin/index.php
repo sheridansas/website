@@ -3,6 +3,7 @@
     <head>
         <!-- Header -->
         <?php include "../includes/header.php"; ?>
+        <?php include "../includes/database.php"; ?>
         <?php include "../includes/admin_protect.php"; ?>
     </head>
     <body class="bg-slate-900">
@@ -22,12 +23,17 @@
                 </div>
 
                 <div>
-                    <label for="tags" class="block text-white mb-1">Tags</label>
-                    <input type="text" name="tags" id="tags" placeholder="Comma-separated" class="w-full p-2 rounded bg-slate-800 text-white border border-slate-700">
+                    <label for="title" class="block text-white mb-1">Banner</label>
+                    <input type="text" name="banner" id="banner" required class="w-full p-2 rounded bg-slate-800 text-white border border-slate-700" placeholder="https://i.imgur.com/1337.png">
                 </div>
 
                 <div>
-                    <label for="description" class="block text-white mb-1">Description</label>
+                    <label for="tags" class="block text-white mb-1">Tags (comma-separated)</label>
+                    <input type="text" name="tags" id="tags" placeholder="Workshop, Linux" class="w-full p-2 rounded bg-slate-800 text-white border border-slate-700">
+                </div>
+
+                <div>
+                    <label for="description" class="block text-white mb-1">Short Description</label>
                     <textarea name="description" id="description" rows="4" required class="w-full p-2 rounded bg-slate-800 text-white border border-slate-700"></textarea>
                 </div>
 
